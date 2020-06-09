@@ -1,0 +1,20 @@
+type: flyingUnit
+name: v23-toranato
+description: a dude
+speed: 0.2
+flying: true
+health: 260
+engineOffset: 5.5
+range: 160
+weapon: {
+    length: 0
+    width: 2
+    reload: 12
+    alternate: true
+    ejectEffect: shellEjectMedium
+    velocityRnd: 1
+    inaccuracy: 40
+    ignoreRotation: true
+    bullet: bombExplosive
+    shootSound: pew
+}

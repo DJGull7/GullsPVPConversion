@@ -1,0 +1,28 @@
+type: DoubleTurret
+name: X34-Python
+description: Fires HE rounds at a high RoF
+health: 400
+size: 2
+reload: 16
+range: 100
+ammoUseEffect: shellEjectSmall
+inaccuracy: 4
+rotatespeed: 12
+ammo: {
+  blast-compound: {
+    speed: 6
+    damage: 15
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  graphite/100
+  copper/200
+  lead/50
+]
+category: turret
+research: duo

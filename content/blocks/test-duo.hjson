@@ -1,0 +1,26 @@
+type: DoubleTurret
+name: test-duo
+description: pew pew
+health: 200
+size: 2
+reload: 4
+range: 200
+ammoUseEffect: shellEjectSmall
+inaccuracy: 3
+rotatespeed: 12
+ammo: {
+  copper: {
+    speed: 10
+    damage: 3
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  copper/70
+]
+category: turret
+research: duo

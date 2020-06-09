@@ -1,0 +1,12 @@
+name: Silver Wall
+description: not reall a silver wall, custom wall
+type: Wall
+health: 1500
+size: 2
+requirements: [
+  copper/100
+  lead/50
+  graphite/10
+]
+category: defense
+research: copper-wall

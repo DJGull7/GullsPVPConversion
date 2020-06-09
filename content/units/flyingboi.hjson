@@ -1,0 +1,15 @@
+type: flyingUnit
+name: flying boi mk1
+description: test unit boi
+speed: 1
+flying: true
+health: 260
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: gullsFlame
+  length: 1.5
+  reload: 10
+  alternate: true
+  bullet: lightning
+}

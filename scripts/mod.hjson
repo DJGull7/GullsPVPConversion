@@ -1,0 +1,6 @@
+name: "testmod"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "Anuke+edits by DJ_Gull_7"
+description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
+version: "1.24"
+minGameVersion: "103"
